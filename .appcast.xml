@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Primary Sync</title>
+    <link>https://raw.githubusercontent.com/Primary-app/primary-sync/master/.appcast.xml</link>
+    <description>Sync your designs directly into your Primary projects.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.2</title>
+      <description>Initial public release</description>
+      <enclosure url="https://github.com/Primary-app/primary-sync/releases/download/v0.2/Primary.sketchplugin.zip" sparkle:version="0.2" />
+    </item>
+  </channel>
+</rss>

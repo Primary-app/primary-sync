@@ -1,0 +1,6 @@
+framework module Primary {
+  umbrella header "Primary.h"
+
+  export *
+  module * { export * }
+}
