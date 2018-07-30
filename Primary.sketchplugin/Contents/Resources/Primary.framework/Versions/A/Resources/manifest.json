@@ -1,0 +1,42 @@
+{
+  "name": "Primary Sync",
+  "description": "Sync your designs directly into your Primary projects.",
+  "author": "Primary app",
+  "version": "0.2",
+  "identifier": "app.primary.sketch-plugin",
+  "appcast": "https://raw.githubusercontent.com/Primary-app/primary-sync/master/.appcast.xml",
+  "icon": "icon.png",
+  "compatibleVersion": 49,
+  "bundleVersion": 1,
+  "commands": [{
+    "name": "Sync to Primary",
+    "identifier": "sync",
+    "script": "main.js",
+    "handler": "sync",
+    "shortcut": "control command p",
+    "description": "Sync artboards to your Primary project of choice.",
+    "icon": "icon_rounded.png"
+  }, {
+    "name": "Settings",
+    "identifier": "showSettings",
+    "script": "main.js",
+    "handler": "showSettings",
+    "description": "Settings for Primary to log in/out of your account.",
+    "icon": "icon_rounded.png"
+  }, {
+    "script": "main.js",
+    "handlers": {
+      "actions": {
+        "Startup": "start",
+        "OpenDocument": "openDocument"
+      }
+    }
+  }],
+  "menu": {
+    "items": [
+      "sync",
+      "-",
+      "showSettings"
+    ]
+  }
+}
