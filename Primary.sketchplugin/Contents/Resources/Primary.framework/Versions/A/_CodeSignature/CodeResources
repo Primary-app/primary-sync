@@ -62,7 +62,11 @@
 		</data>
 		<key>Resources/main.js</key>
 		<data>
+<<<<<<< HEAD
 		9sSMi8gWsHI6BZ7EFoMo6AVMyFc=
+=======
+		W/+V6vhz7vqzLo9+oS5O6PT6+h4=
+>>>>>>> 27f65a71952c744c4fef7eef402fb2e54d758b39
 		</data>
 		<key>Resources/manifest.json</key>
 		<data>
@@ -191,7 +195,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			7OFUL/vFZow6RW2d8Ao3w2QVhUxxUzE6Dh74oLDn8JY=
+=======
+			O8ri1exn+CC0Wu9ARH7cxeTNsCqCC7F5YXV1z8Hr0VE=
+>>>>>>> 27f65a71952c744c4fef7eef402fb2e54d758b39
 			</data>
 		</dict>
 		<key>Resources/manifest.json</key>
