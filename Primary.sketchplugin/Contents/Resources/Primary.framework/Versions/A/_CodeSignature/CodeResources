@@ -6,35 +6,35 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		dD5/4AnT4RUHZoSjgqVniZWHNPk=
+		gCaeYt2K29Y4S+b9u+BUmYNmfoY=
 		</data>
 		<key>Resources/PrimaryAccountWindow.nib</key>
 		<data>
-		3D2Vh6bfueV3U1JwKkEyXnLWzmM=
+		I15n90l5cPsjT72lz6aGFpnzqTQ=
 		</data>
 		<key>Resources/PrimaryAlert.nib</key>
 		<data>
-		r0029Fsezd2ZOScXclYmE2QdO80=
+		sp7iS7wgrgkTzG1c9KCAfv2REGo=
 		</data>
 		<key>Resources/PrimaryDebugLogWindow.nib</key>
 		<data>
-		Ecl/QV8vYkatl9KLLKkbA+oTsp8=
+		40B340/evY4S3SCVQVS/wfc/5RA=
 		</data>
 		<key>Resources/PrimaryGoogleAuthWindow.nib</key>
 		<data>
-		49HoRjrGnTQEq9kvAipLAvxTb4k=
+		O9eGx+J7bZ8Ze5Znm4glJh7hU/c=
 		</data>
 		<key>Resources/PrimaryLoginWindow.nib</key>
 		<data>
-		0YjagB2puM8JAifIYqM7NAKOuW4=
+		EH/jG0ysOp/o7EYY25l6ERrdqQE=
 		</data>
 		<key>Resources/PrimaryProjectPicker.nib</key>
 		<data>
-		eu2h3CaPfP7G2cB4kjo8ravf4rw=
+		xCXGEQC4Ar6XOehP32zDagreuNg=
 		</data>
 		<key>Resources/PrimaryUploadStatusViewController.nib</key>
 		<data>
-		wJecXlloXm5ASpL820dO/ADI5gU=
+		Mf/4T+EHJHTOtYEsy1XVS14XaJY=
 		</data>
 		<key>Resources/README.md</key>
 		<data>
@@ -62,11 +62,7 @@
 		</data>
 		<key>Resources/main.js</key>
 		<data>
-<<<<<<< HEAD
 		9sSMi8gWsHI6BZ7EFoMo6AVMyFc=
-=======
-		W/+V6vhz7vqzLo9+oS5O6PT6+h4=
->>>>>>> 27f65a71952c744c4fef7eef402fb2e54d758b39
 		</data>
 		<key>Resources/manifest.json</key>
 		<data>
@@ -97,56 +93,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/zPeeGJaUoiUWTm0Rm2QsoR1rdTIusmkTmJfYPgPkP4=
+			ZzUXBrzNnRYwDgCM9KIdhf+DcxYLYmEsrxOu1PKnmIU=
 			</data>
 		</dict>
 		<key>Resources/PrimaryAccountWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EascKRqCvGcsiH4/Guk3GyTaJqgI+1/ZzyiFS7cmGaE=
+			SX7J/Zz4/k1L/y8FAFmTLsGj/lgbV23TH9guUYWZqNs=
 			</data>
 		</dict>
 		<key>Resources/PrimaryAlert.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I7CXkWlUceD9VxtPSPD3Rklt2XUooZ7dpHSYIeVN66U=
+			0OKl54c/BfvAQSuru1J0xHeEpEp3lZihYZ5+vx4OwQY=
 			</data>
 		</dict>
 		<key>Resources/PrimaryDebugLogWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SySTptIfcK8cXUAFLRPto21pDE+1ogIubE6mI88IKoY=
+			r190esD7rRd7mRmpYviUsRNB1i7Pk6f2p0jdaS2IT3A=
 			</data>
 		</dict>
 		<key>Resources/PrimaryGoogleAuthWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RjMzrYxUJgpGe00fuX0h5b1wVOgr8QZznrxxzt3hYac=
+			iJxgYCkCZPkK0JHsGJ5j9G3vpu0rYh0wEqnFCnseFzQ=
 			</data>
 		</dict>
 		<key>Resources/PrimaryLoginWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nK1xvrA1XTwB/ffS3HCk7gSywid74iFDcBRtN9qIb7Y=
+			amIpyHfzVrsd1F+jbINsda0TSMCF4G3p3w7P3lRgaY8=
 			</data>
 		</dict>
 		<key>Resources/PrimaryProjectPicker.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0rXFKQveooIsWdbDq0wkfQ2BgQBrBkk3V5Ydzaw56RE=
+			+c33u4dr9zp1MU4S+hCk5IWhaere3Xg1qxOdivofV90=
 			</data>
 		</dict>
 		<key>Resources/PrimaryUploadStatusViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gl8xo2AJihBmo3Sm6S/P+VyPB4A+JJt2YG/uKf1ebdA=
+			oFqXsEZ042gVvbNWDOC2g/86AvGXrni5aksoPm3jYSM=
 			</data>
 		</dict>
 		<key>Resources/README.md</key>
@@ -195,11 +191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			7OFUL/vFZow6RW2d8Ao3w2QVhUxxUzE6Dh74oLDn8JY=
-=======
-			O8ri1exn+CC0Wu9ARH7cxeTNsCqCC7F5YXV1z8Hr0VE=
->>>>>>> 27f65a71952c744c4fef7eef402fb2e54d758b39
 			</data>
 		</dict>
 		<key>Resources/manifest.json</key>
