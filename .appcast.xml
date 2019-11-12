@@ -6,6 +6,11 @@
     <description>Sync your designs directly into your Primary projects.</description>
     <language>en</language>
     <item>
+      <title>Version 0.5</title>
+      <description>Fixed an issue when trying to sync selected artboards</description>
+      <enclosure url="https://github.com/Primary-app/primary-sync/releases/download/v0.5/Primary.sketchplugin.zip" sparkle:version="0.5" />
+    </item>
+    <item>
       <title>Version 0.4</title>
       <description>Fixed cookie issue</description>
       <enclosure url="https://github.com/Primary-app/primary-sync/releases/download/v0.4/Primary.sketchplugin.zip" sparkle:version="0.4" />
