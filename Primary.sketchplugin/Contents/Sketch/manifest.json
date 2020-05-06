@@ -2,7 +2,7 @@
   "name": "Primary Sync",
   "description": "Sync your designs directly into your Primary projects.",
   "author": "Primary app",
-  "version": "0.4",
+  "version": "0.5",
   "identifier": "app.primary.sketch-plugin",
   "appcast": "https://raw.githubusercontent.com/Primary-app/primary-sync/master/.appcast.xml",
   "icon": "icon.png",
